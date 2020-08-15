@@ -3,7 +3,7 @@
 
 # Sanjos Notification
 
-a simple and sophisticated notification plugin from 'Santri Njoso Developer' (wanna be). 
+a simple and sophisticated notification plugin from 'Sanjos Developer'. 
 
 ## Support Platfrom
 
