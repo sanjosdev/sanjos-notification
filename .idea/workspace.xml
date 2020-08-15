@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dee7b482-3172-4290-a8bf-777858e05d83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1g7EMfIaHUfzALpYsiy16FMRFaG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee7b482-3172-4290-a8bf-777858e05d83" name="Default Changelist" comment="" />
+      <created>1597397561014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597397561014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597457258699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="92" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1597457258699" />
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1597463964954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597463964954" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1597463964953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597463964953" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1597463964953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597463964953" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1597463964953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597463964953" />
+    <state width="300" height="36" key="javadoc.popup.new" timestamp="1597463648137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="300" height="36" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1597463648137" />
+  </component>
+</project>
